@@ -3,7 +3,14 @@
 **Shortcuts: [About](https://github.com/kayleyseow/OASES#about), [Cigar Box Guitar](https://github.com/kayleyseow/OASES#cigar-box-guitar), [Arduino](https://github.com/kayleyseow/OASES#arduino), [Materials List](https://github.com/kayleyseow/OASES#materials-list), [Code](https://github.com/kayleyseow/OASES#code), [Photos and Demo](https://github.com/kayleyseow/OASES#photos-and-demo), [Further Hacking](https://github.com/kayleyseow/OASES#further-hacking)**  
 
 ## About
-Over the course of the Outreach for Students in Engineering and Science program, I completed a final project under the guidance of my undergraduate engineering student mentor at the Stanford Product Realization Lab. During the yearlong program, I learned about different fields of engineering and the engineering design process, and gained experience with practical skills, like woodworking and circuitry.
+Over the course of the Outreach for Students in Engineering and Science program, I completed a final project under the guidance of my undergraduate engineering student mentor at the Stanford Product Realization Lab. During the yearlong program, I learned about different fields of engineering and the engineering design process, and gained experience with practical skills, like woodworking and circuitry.  
+<p align="center">
+	<img src="Assets/OASESGroupPhoto.JPG" alt="Photo of the 2018-2019 OASES cohort, Stanford University" width=35.5%/>
+	<img src="Assets/GU.jpg" alt="Photo with my mentor" width=20%/> 
+	<img src="Assets/AC.JPG" alt="Photo with another mentor" width=20%/>
+	<br>
+	<b>Photos with my OASES cohort and mentors.</b>
+</p>  
 
 # Cigar Box Guitar
 As part of my final project at OASES, I built a guitar out a cigar box. At the Stanford Product Realization Lab, I fabricated the guitar, using machinery to cut the cigar box body and construct the neck of the guitar. We used screws, bolts and a toothpick to serve as the nut and bridge of the guitar. I got the tuning pegs and strings from a guitar kit and in the end, we were able to tune and play our guitar. 
