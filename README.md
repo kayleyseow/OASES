@@ -6,7 +6,8 @@
 Over the course of the Outreach for Students in Engineering and Science program, I completed a final project under the guidance of my undergraduate engineering student mentor at the Stanford Product Realization Lab. During the yearlong program, I learned about different fields of engineering and the engineering design process, and gained experience with practical skills, like woodworking and circuitry.
 
 # Cigar Box Guitar
-
+As part of my final project at OASES, I built a guitar out a cigar box. At the Stanford Product Realization Lab, I fabricated the guitar, using machinery to cut the cigar box body and construct the neck of the guitar. We used screws, bolts and a toothpick to serve as the nut and bridge of the guitar. I got the tuning pegs and strings from a guitar kit and in the end, we were able to tune and play our guitar. 
+## Photos
 # Arduino
 The code for the Arduino is in the [ledcontrol.ino](https://github.com/kayleyseow/OASES/blob/master/ledcontrol.ino) file. This code controls the intensity of the LED lights based on the input from the audio sensor. The content here is modified from SWE material.
 ## Materials List  
