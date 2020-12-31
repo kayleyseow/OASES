@@ -1,6 +1,6 @@
 # OASES
 **My final project for [Stanford Society of Women Engineers](https://swe.stanford.edu/)' OASES program.**  
-**Shortcuts:[About](https://github.com/kayleyseow/OASES#about), [Cigar Box Guitar](https://github.com/kayleyseow/OASES#cigar-box-guitar), [Arduino](https://github.com/kayleyseow/OASES#arduino), [Materials List](https://github.com/kayleyseow/OASES#materials-list), [Code](https://github.com/kayleyseow/OASES#code), [Photos and Demo](https://github.com/kayleyseow/OASES#photos-and-demo), [Further Hacking](https://github.com/kayleyseow/OASES#further-hacking)**  
+**Shortcuts: [About](https://github.com/kayleyseow/OASES#about), [Cigar Box Guitar](https://github.com/kayleyseow/OASES#cigar-box-guitar), [Arduino](https://github.com/kayleyseow/OASES#arduino), [Materials List](https://github.com/kayleyseow/OASES#materials-list), [Code](https://github.com/kayleyseow/OASES#code), [Photos and Demo](https://github.com/kayleyseow/OASES#photos-and-demo), [Further Hacking](https://github.com/kayleyseow/OASES#further-hacking)**  
 
 ## About
 Over the course of the Outreach for Students in Engineering and Science program, I completed a final project under the guidance of my undergraduate engineering mentor at the Stanford Product Realization Lab. Year
