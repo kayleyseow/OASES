@@ -16,6 +16,7 @@ The code for the Arduino is in the [ledcontrol.ino](https://github.com/kayleyseo
 - Sound Sensor
 - 10 LEDs
 - 10 4-Band Resistors
+  - From our materials, I chose the resistors with 330 Ohms with ± 5% Tolerance (Orange Orange Brown Gold)
 - 10 Jumper Wires
 ## Code
 This section goes into detail about the specifics of the Arduino and the logic of the code behind it. If there are questions that the code's comments cannot answer, chances are you will find the answer here.  
