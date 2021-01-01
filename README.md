@@ -13,7 +13,7 @@ Over the course of the Outreach for Students in Engineering and Science program,
 </p>  
 
 # Cigar Box Guitar
-As part of my final project at OASES, I built a guitar out a cigar box. At the Stanford Product Realization Lab, I fabricated the guitar, using machinery to cut the cigar box body and construct the neck of the guitar. We used screws, bolts and a toothpick to serve as the nut and bridge of the guitar. I got the tuning pegs and strings from a guitar kit and in the end, we were able to tune and play our guitar. 
+As part of my final project at OASES, I built a guitar out of a cigar box. At the Stanford Product Realization Lab, I fabricated the guitar, using machinery to cut the cigar box body and construct the neck of the guitar. We used screws, bolts and a toothpick to serve as the nut and bridge of the guitar. I got the tuning pegs and strings from a guitar kit and in the end, we were able to tune and play our guitar. 
 ## Photos  
 <p align="center">
 	<img src="Assets/GuitarFullBody.jpg" alt="Photo of the full guitar" width=35.5%/>
@@ -53,8 +53,8 @@ Code TL;DR: `if` the input from the sensor is above the `threshold` value, then 
 	- Your sound sensor, and most other sensors, are based on analog values.
 - This should be connected to the analog input 0 on the Arduino(A0). GND is connected to ground. VCC is connected to +5V. DO – which is the digital output of the module, and should be connected to digital pin 2 on the Arduino.
 - Global variables:
-  - ```int DO = 2;``` sets a pin to recieve digital output.
-  - ```int DA = A0;``` sets the pin to recieve analog output.
+  - ```int DO = 2;``` sets a pin to receive digital output.
+  - ```int DA = A0;``` sets the pin to receive analog output.
   - ```int threshold = 263;``` sets a minimum threshold for LED lit.
     - Remember to set the threshold a bit higher than the average values you get from the sensor.
   - ```int sensorvalue = 0;``` initializes the variable for later use.
@@ -68,7 +68,7 @@ Code TL;DR: `if` the input from the sensor is above the `threshold` value, then 
   - ```Serial.print(sensorvalue);``` prints the analog value.
   - ```Serial.println(digitalRead(DO));``` prints the digital value.
 ## Photos and Demo
-**Demo: The link to the video demo of this Arduino are [here](https://youtu.be/_N_22f2PsdY).**  
+**Demo: The link to the video demo of this Arduino is [here](https://youtu.be/_N_22f2PsdY).**  
 **Photos:**
 <p align="center">
 	<img src="Assets/ArduinoBuilding.JPG" alt="Photo of the Arduino being built" width=19.5%/>
@@ -94,3 +94,4 @@ Code TL;DR: `if` the input from the sensor is above the `threshold` value, then 
 - Find a song and respective sensitivity that makes a super lit LED pattern/visualization
 - Add a non-LED component into your circuit
 - Combine guitar and circuit
+
