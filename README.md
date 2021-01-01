@@ -14,7 +14,21 @@ Over the course of the Outreach for Students in Engineering and Science program,
 
 # Cigar Box Guitar
 As part of my final project at OASES, I built a guitar out a cigar box. At the Stanford Product Realization Lab, I fabricated the guitar, using machinery to cut the cigar box body and construct the neck of the guitar. We used screws, bolts and a toothpick to serve as the nut and bridge of the guitar. I got the tuning pegs and strings from a guitar kit and in the end, we were able to tune and play our guitar. 
-## Photos
+## Photos  
+<p align="center">
+	<img src="Assets/GuitarFullBody.jpg" alt="Photo of the full guitar" width=35.5%/>
+	<img src="Assets/GuitarBridge.JPG" alt="Photo of the guitar bridge" width=20%/>
+	<br>
+	<b>Photos of the guitar and bridge.</b>
+	<br>
+	<img src="Assets/GuitarHeadBottomLeftView.JPG" alt="Photo of the guitar head, bottom left view" width=20%/>
+	<img src="Assets/GuitarHeadBottomRightView.JPG" alt="Photo of the guitar head, Bottom right view" width=20%/>
+	<img src="Assets/GuitarTuningKeys.JPG" alt="Photo of the guitar tuning keys" width=20%/> 
+	<img src="Assets/GuitarHeadStock.JPG" alt="Photo of the guitar headstock" width=20%/>
+	<br>
+	<b>Photos of the guitar head, tuning keys, and headstock.</b>
+</p>  
+
 # Arduino
 The code for the Arduino is in the [ledcontrol.ino](https://github.com/kayleyseow/OASES/blob/master/ledcontrol.ino) file. This code controls the intensity of the LED lights based on the input from the audio sensor. The content here is modified from SWE material.
 ## Materials List  
@@ -54,6 +68,18 @@ Code TL;DR: `if` the input from the sensor is above the `threshold` value, then 
   - ```Serial.print(sensorvalue);``` prints the analog value.
   - ```Serial.println(digitalRead(DO));``` prints the digital value.
 ## Photos and Demo
+**Demo: The link to the video demo of this Arduino are [here](https://youtu.be/_N_22f2PsdY).**  
+**Photos:**
+<p align="center">
+	<img src="Assets/ArduinoBuilding.JPG" alt="Photo of the Arduino being built" width=19.5%/>
+	<img src="Assets/ArduinoTesting.JPG" alt="Photo of the guitar being tested" width=19.5%/>
+	<img src="Assets/ArduinoBreadboard.JPG" alt="Photo of the Arduino's breadboard" width=19.5%/>
+	<img src="Assets/ArduinoAudioSensor.JPG" alt="Photo of the audio sensor connected to the Arduino" width=19.5%/>
+	<img src="Assets/ArduinoSetup.JPG" alt="Photo of the Arduino Setup" width=19.5%/>
+	<br>
+	<b>Photos of the Arduino being built and tested, the breadboard, audio sensor, and the full setup.</b>
+</p>
+
 ## Running the Arduino
 1. Run code
 2. Press the magnifying glass (serial monitor) in the top right corner
