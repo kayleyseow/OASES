@@ -94,4 +94,3 @@ Code TL;DR: `if` the input from the sensor is above the `threshold` value, then 
 - Find a song and respective sensitivity that makes a super lit LED pattern/visualization
 - Add a non-LED component into your circuit
 - Combine guitar and circuit
-
